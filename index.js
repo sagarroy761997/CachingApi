@@ -1,4 +1,7 @@
 const express = require('express');
+const path = require('path');
+const fs = require('fs');
+const {marked} = require('marked');
 const app = express();
 const port = process.env.PORT || 8888;
 
