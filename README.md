@@ -1,4 +1,3 @@
-
 # Caching API
 
 This is a simple caching API built with Node.js and Express.
@@ -53,7 +52,7 @@ You can use Postman or any other API testing tool to test the endpoints. I used 
     - URL: `http://localhost:10000/cache/testKey`
 
 ## Deployment
-The server is deployed on `https://cachingapi-7od8.onrender.com/`.
+The server is deployed on [https://cachingapi-7od8.onrender.com/](https://cachingapi-7od8.onrender.com/).
 
-## video demo
-The video demo link `https://drive.google.com/file/d/1QhnTAnVZM8AjXpXJhMsReJDn5nwUl8BT/view?usp=drive_link`.
+## Video Demo
+The video demo link is available [here](https://drive.google.com/file/d/1QhnTAnVZM8AjXpXJhMsReJDn5nwUl8BT/view?usp=drive_link).
